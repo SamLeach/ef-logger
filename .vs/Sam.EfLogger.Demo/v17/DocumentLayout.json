@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\Sam.EfCoreLogger.Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}|Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo.csproj|c:\\work\\sam.efcorelogger.demo\\sam.efcorelogger.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}|Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo.csproj|solutionrelative:sam.efcorelogger.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}|Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo.csproj|c:\\work\\sam.efcorelogger.demo\\sam.efcorelogger.demo\\servicea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}|Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo.csproj|solutionrelative:sam.efcorelogger.demo\\servicea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}|Sam.EfCoreLogger.Demo\\Sam.EfLogger.Demo.csproj|c:\\work\\sam.efcorelogger.demo\\sam.efcorelogger.demo\\logdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}|Sam.EfCoreLogger.Demo\\Sam.EfLogger.Demo.csproj|solutionrelative:sam.efcorelogger.demo\\logdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}|Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo.csproj|c:\\work\\sam.efcorelogger.demo\\sam.efcorelogger.demo\\logdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}|Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo.csproj|solutionrelative:sam.efcorelogger.demo\\logdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}|Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo.csproj|c:\\work\\sam.efcorelogger.demo\\sam.efcorelogger.demo\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}|Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo.csproj|solutionrelative:sam.efcorelogger.demo\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}|Sam.EfCoreLogger.Demo\\Sam.EfLogger.Demo.csproj|c:\\work\\sam.efcorelogger.demo\\sam.efcorelogger.demo\\efcoreloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}|Sam.EfCoreLogger.Demo\\Sam.EfLogger.Demo.csproj|solutionrelative:sam.efcorelogger.demo\\efcoreloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}|Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo.csproj|c:\\work\\sam.efcorelogger.demo\\sam.efcorelogger.demo\\efcorelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87BAB3-213E-4FA0-BDD2-69CF70417FD0}|Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo.csproj|solutionrelative:sam.efcorelogger.demo\\efcorelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 345,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Work\\Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo\\LogDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Sam.EfCoreLogger.Demo\\LogDbContextFactory.cs",
+              "ToolTip": "C:\\Work\\Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo\\LogDbContextFactory.cs",
+              "RelativeToolTip": "Sam.EfCoreLogger.Demo\\LogDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:37:32.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EfCoreLoggerProvider.cs",
+              "DocumentMoniker": "C:\\Work\\Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo\\EfCoreLoggerProvider.cs",
+              "RelativeDocumentMoniker": "Sam.EfCoreLogger.Demo\\EfCoreLoggerProvider.cs",
+              "ToolTip": "C:\\Work\\Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo\\EfCoreLoggerProvider.cs",
+              "RelativeToolTip": "Sam.EfCoreLogger.Demo\\EfCoreLoggerProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:37:20.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceA.cs",
+              "DocumentMoniker": "C:\\Work\\Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo\\ServiceA.cs",
+              "RelativeDocumentMoniker": "Sam.EfCoreLogger.Demo\\ServiceA.cs",
+              "ToolTip": "C:\\Work\\Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo\\ServiceA.cs",
+              "RelativeToolTip": "Sam.EfCoreLogger.Demo\\ServiceA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:50:38.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EfCoreLogger.cs",
+              "DocumentMoniker": "C:\\Work\\Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo\\EfCoreLogger.cs",
+              "RelativeDocumentMoniker": "Sam.EfCoreLogger.Demo\\EfCoreLogger.cs",
+              "ToolTip": "C:\\Work\\Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo\\EfCoreLogger.cs",
+              "RelativeToolTip": "Sam.EfCoreLogger.Demo\\EfCoreLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:45:34.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogDbContext.cs",
+              "DocumentMoniker": "C:\\Work\\Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo\\LogDbContext.cs",
+              "RelativeDocumentMoniker": "Sam.EfCoreLogger.Demo\\LogDbContext.cs",
+              "ToolTip": "C:\\Work\\Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo\\LogDbContext.cs",
+              "RelativeToolTip": "Sam.EfCoreLogger.Demo\\LogDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:30:57.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Work\\Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo\\Log.cs",
+              "RelativeDocumentMoniker": "Sam.EfCoreLogger.Demo\\Log.cs",
+              "ToolTip": "C:\\Work\\Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo\\Log.cs",
+              "RelativeToolTip": "Sam.EfCoreLogger.Demo\\Log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:29:52.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Sam.EfCoreLogger.Demo\\Program.cs",
+              "ToolTip": "C:\\Work\\Sam.EfCoreLogger.Demo\\Sam.EfCoreLogger.Demo\\Program.cs",
+              "RelativeToolTip": "Sam.EfCoreLogger.Demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:28:04.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
